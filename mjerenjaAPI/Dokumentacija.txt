@@ -1,0 +1,2 @@
+Otvoriti terminal u VS code (View -> Terminal)
+Pratiti uputu na https://flightphp.com/install
